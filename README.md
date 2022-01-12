@@ -17,10 +17,14 @@ spent playing on the server and a leaderboard to see people who have played the 
 ## Screenshots
 
 Here are some example screenshots to demonstrate what it looks like
-![/timetracker:playtime command](/img/1.JPG)
+![/timetracker:playtime command](/img/0.JPG)
+
+![/timetracker:playtime output](/img/1.JPG)
 
 ![/timetracker:leaderboard command](/img/2.JPG)
 
-![/timetracker:leaderboard with custom index command](/img/3.JPG)
+![/timetracker:leaderboard output](/img/3.JPG)
 
-![/timetracker:leaderboard 5](/img/4.JPG)
+![/timetracker:leaderboard with custom index command](/img/4.JPG)
+
+![/timetracker:leaderboard with custom index output](/img/5.JPG)
